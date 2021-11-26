@@ -18,7 +18,7 @@ def plot_data(messenges):
     #"""
     #print(messenges)
     print(dates)
-    #print(len(dates))
+    print(len(dates))
     for day in dates:
         print(day)
 
